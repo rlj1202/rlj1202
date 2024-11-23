@@ -2,6 +2,8 @@
 
 ## ✨ My Interests...
 
+<!-- https://shields.io/ -->
+<!-- https://simpleicons.org/ -->
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
 ### Operating System
@@ -20,6 +22,7 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Typst](https://img.shields.io/badge/typst-%23239DAD?style=for-the-badge&logo=typst&logoColor=white)
 
 ### Frameworks
 
